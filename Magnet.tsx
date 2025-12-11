@@ -1,4 +1,3 @@
-// Get Started: https://www.framer.com/developers
 import { useRef, Children } from "react"
 import { addPropertyControls, ControlType } from "framer"
 import {
